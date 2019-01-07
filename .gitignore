@@ -2,10 +2,6 @@
 .DS_Store
 .gradle/
 .idea/
-build.gradle.kts
 gradle/
-gradlew
-gradlew.bat
 out/
-settings.gradle
-src/
+
